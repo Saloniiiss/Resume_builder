@@ -1,9 +1,6 @@
 # Resume Builder
 
-```javascript
 
-
-```
 
 
 ## Quick Start
