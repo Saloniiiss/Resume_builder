@@ -4,7 +4,7 @@
 
 
 ## Quick Start
-Clone the repository and do following:
+Clone the repository or download the zip file and extract it and do following:
 
 # Install dependencies for server
 npm install 
